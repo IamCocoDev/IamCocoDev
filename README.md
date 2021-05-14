@@ -9,10 +9,10 @@ In this fantastic place you will be able to find all the projects that I have be
 	- https://github.com/Cocofexe/Weather-App  
 	- https://weather-app-eight-green.vercel.app/
  2. **The second** is a searcher and creator of dog breeds
-	 https://github.com/Cocofexe/API-Dogs
-	 http://54.232.68.2:3000/
+	- https://github.com/Cocofexe/API-Dogs
+	- http://54.232.68.2:3000/
  3. **The third** is an eccomerce of role-playing games (This is in full development)
-	 - https://github.com/Cocofexe/DiceStarter
+	- https://github.com/Cocofexe/DiceStarter
 
 - 🔭 I’m currently working on DiceStarter
 - 🌱 I’m currently learning TypeScript
