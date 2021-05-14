@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hi there 👋
 Welcome to the ***Federico Giovenco*** repositories as you can see my nickname on GitHub differs from my name as it does on all social networks because the name with which I identify myself on the Internet is **Cocofexe** 👨‍💻.
 
