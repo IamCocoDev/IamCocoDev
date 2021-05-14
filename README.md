@@ -14,7 +14,12 @@ In this fantastic place you will be able to find all the projects that I have be
  3. **The third** is an eccomerce of role-playing games (This is in full development)
 	 https://github.com/Cocofexe/DiceStarter
 
-
+- 🔭 I’m currently working on DiceStarter
+- 🌱 I’m currently learning TypeScript
+- 📫 How to reach me: 
+	On Instagram: https://www.instagram.com/fedegiovenco/ 
+	On Twitter: https://twitter.com/cocofexe
+	On Linkedin: https://www.linkedin.com/in/federico-giovenco-96929320b/
 <!--
 **Cocofexe/Cocofexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
