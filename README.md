@@ -10,8 +10,9 @@ In this fantastic place you will be able to find all the projects that I have be
  2. **The second** is a searcher and creator of dog breeds
 	- https://github.com/Cocofexe/API-Dogs
 	- http://54.232.68.2:3000/
- 3. **The third** is an eccomerce of role-playing games (This is in full development)
+ 3. **The third** is an eccomerce of role-playing games
 	- https://github.com/Cocofexe/DiceStarter
+	- https://dice-starter.vercel.app/home?page=1
 
 - 🔭 I’m currently working on DiceStarter
 - 🌱 I’m currently learning TypeScript
