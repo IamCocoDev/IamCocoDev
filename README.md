@@ -14,7 +14,7 @@ In this fantastic place you will be able to find all the projects that I have be
  Searcher and creator of dog breeds.
 - https://github.com/Cocofexe/API-Dogs
 - http://54.232.68.2:3000/
-<img height="250" width="400" src='![DogsPi1](https://user-images.githubusercontent.com/48165276/120645443-d0880380-c44e-11eb-8c49-c9ce0a5f6878.png)'>
+<img height="250" width="400" href='https://user-images.githubusercontent.com/48165276/120645443-d0880380-c44e-11eb-8c49-c9ce0a5f6878.png'>
 ![DogsPi2](https://user-images.githubusercontent.com/48165276/120645457-d382f400-c44e-11eb-90d3-6bd40f99b92a.png)
 ![DogsPi3](https://user-images.githubusercontent.com/48165276/120645463-d54cb780-c44e-11eb-9f8f-e9b8ad61008a.png)
 
