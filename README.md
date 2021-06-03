@@ -29,6 +29,7 @@ This app was created with React
 - 🔭 I’m currently working on DiceStarter
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: 
+
 <a href="https://www.linkedin.com/in/federico-giovenco-96929320b/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
 	- On Instagram: https://www.instagram.com/fedegiovenco/ 
 	- On Twitter: https://twitter.com/cocofexe
