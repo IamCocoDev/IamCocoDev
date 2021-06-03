@@ -17,22 +17,28 @@ This app was created with React
 - https://github.com/Cocofexe/API-Dogs
 - http://54.232.68.2:3000/
 
-<img height="250" width="400" src='https://user-images.githubusercontent.com/48165276/120645443-d0880380-c44e-11eb-8c49-c9ce0a5f6878.png'> <img height="250" width="400" src='https://user-images.githubusercontent.com/48165276/120645457-d382f400-c44e-11eb-90d3-6bd40f99b92a.png'> 
-<img height="250" width="400" src='https://user-images.githubusercontent.com/48165276/120645463-d54cb780-c44e-11eb-9f8f-e9b8ad61008a.png'>
+<img height="250" width="420" src='https://user-images.githubusercontent.com/48165276/120645443-d0880380-c44e-11eb-8c49-c9ce0a5f6878.png'> <img height="250" width="400" src='https://user-images.githubusercontent.com/48165276/120645457-d382f400-c44e-11eb-90d3-6bd40f99b92a.png'> 
+<img height="250" width="420" src='https://user-images.githubusercontent.com/48165276/120645463-d54cb780-c44e-11eb-9f8f-e9b8ad61008a.png'>
+
+ ### DicStarter
+Is an eccomerce of role-playing games
+- https://github.com/Cocofexe/DiceStarter
+- https://dice-starter.vercel.app/home?page=1
+
+<img height="250" width="420" src='https://user-images.githubusercontent.com/48165276/120648699-522d6080-c452-11eb-88c1-d1b911854692.png'><img height="250" width="420" src='https://user-images.githubusercontent.com/48165276/120648741-5e192280-c452-11eb-85e2-885c062510d0.png'>
+<img height="250" width="420" src='https://user-images.githubusercontent.com/48165276/120648794-6a9d7b00-c452-11eb-9622-7c5f6d54a6f7.png'><img height="250" width="420" src='https://user-images.githubusercontent.com/48165276/120648822-71c48900-c452-11eb-881c-29b77ce436a2.png'>
+<img height="250" width="420" src='https://user-images.githubusercontent.com/48165276/120649102-c536d700-c452-11eb-843a-7a12b6ce5fd3.png'>
+     
 
 
-
- 4. **The third** is an eccomerce of role-playing games
-	- https://github.com/Cocofexe/DiceStarter
-	- https://dice-starter.vercel.app/home?page=1
 
 - 🔭 I’m currently working on DiceStarter
 - 🌱 I’m currently learning TypeScript
-- 📫 How to reach me: 
 
-<a href="https://www.linkedin.com/in/federico-giovenco-96929320b/" ><img width="5%" src="https://image.flaticon.com/icons/png/512/174/174857.png"> &nbsp;
+### 📫 How to reach me: 
+
+<a href="https://www.linkedin.com/in/federico-giovenco-96929320b/" ><img width="5%" src="https://image.flaticon.com/icons/png/512/174/174857.png"> &nbsp;<a href="mailto:giovencofede@gmail.com" ><img width="5%" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png">
 	
-<a href="mailto:giovencofede@gmail.com" ><img width="5%" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png">
 	
 	- On Instagram: https://www.instagram.com/fedegiovenco/ 
 	- On Twitter: https://twitter.com/cocofexe
