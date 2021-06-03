@@ -4,7 +4,8 @@ Welcome to the ***Federico Giovenco*** repositories as you can see my nickname o
 
 In this fantastic place you will be able to find all the projects that I have been carrying out throughout my short life 💻.
 
- 1. ***The first*** project is a weather application 
+ 1. ***Minimalist Weather-App*** 
+	![Whether app](https://user-images.githubusercontent.com/48165276/120644272-86eae900-c44d-11eb-8400-ce649aee4dc6.png)
 	- https://github.com/Cocofexe/Weather-App  
 	- https://weather-app-eight-green.vercel.app/
  2. **The second** is a searcher and creator of dog breeds
