@@ -29,14 +29,15 @@ This app was created with React
 - 🔭 I’m currently working on DiceStarter
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: 
+<a href="https://www.linkedin.com/in/federico-giovenco-96929320b/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
 	- On Instagram: https://www.instagram.com/fedegiovenco/ 
 	- On Twitter: https://twitter.com/cocofexe
-	- On Linkedin: https://www.linkedin.com/in/federico-giovenco-96929320b/
 
 <!--
 **Cocofexe/Cocofexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
