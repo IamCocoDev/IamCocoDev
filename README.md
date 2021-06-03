@@ -30,7 +30,7 @@ This app was created with React
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: 
 
-<a href="https://www.linkedin.com/in/federico-giovenco-96929320b/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
+<a href="https://www.linkedin.com/in/federico-giovenco-96929320b/" ><img width="5%" src="https://image.flaticon.com/icons/png/512/174/174857.png"> &nbsp;
 	
 <a href="mailto:giovencofede@gmail.com" ><img width="5%" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png">
 	
