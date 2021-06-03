@@ -12,7 +12,7 @@ This app was created with React
 - https://weather-app-eight-green.vercel.app/
 <img height="250" width="400" src='https://user-images.githubusercontent.com/48165276/120644272-86eae900-c44d-11eb-8400-ce649aee4dc6.png'>
 
- ### Dogs-Pi
+ ### Api-Dogs
  Searcher and creator of dog breeds.
 - https://github.com/Cocofexe/API-Dogs
 - http://54.232.68.2:3000/
