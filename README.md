@@ -1,4 +1,4 @@
-![enter image description here](https://i1.wp.com/codigoespagueti.com/wp-content/uploads/2014/06/GIF.gif?fit=640,360&quality=80&ssl=1)
+![background-coco](https://user-images.githubusercontent.com/48165276/120646762-3923b000-c450-11eb-89d6-0948bacddecc.png)
 # Hi there 👋
 Welcome to the ***Federico Giovenco*** repositories as you can see my nickname on GitHub differs from my name as it does on all social networks because the name with which I identify myself on the Internet is **SayMeCoco** 👨‍💻.
 
@@ -6,9 +6,11 @@ In this fantastic place you will be able to find all the projects that I have be
 
 ### Minimalist Weather-App
 
+This app was created with React 
+
 - https://github.com/Cocofexe/Weather-App 
 - https://weather-app-eight-green.vercel.app/
-	![Whether app](https://user-images.githubusercontent.com/48165276/120644272-86eae900-c44d-11eb-8400-ce649aee4dc6.png)
+<img height="250" width="400" src='https://user-images.githubusercontent.com/48165276/120644272-86eae900-c44d-11eb-8400-ce649aee4dc6.png'>
 
  ### Dogs-Pi
  Searcher and creator of dog breeds.
