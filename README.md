@@ -21,7 +21,8 @@ This app was created with React
 <img height="250" width="420" src='https://user-images.githubusercontent.com/48165276/120645463-d54cb780-c44e-11eb-9f8f-e9b8ad61008a.png'>
 
  ### DicStarter
-Is an eccomerce of role-playing games
+This is e-commerce (is not real is a group project to one Bootcamp) based on real games. In this, you can find fantastic games and fantastic accessories to have incredible parties with your friends.
+
 - https://github.com/Cocofexe/DiceStarter
 - https://dice-starter.vercel.app/home?page=1
 
