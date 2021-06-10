@@ -15,7 +15,7 @@ This app was created with React
  ### Api-Dogs
  Searcher and creator of dog breeds.
 - https://github.com/Cocofexe/API-Dogs
-- http://54.232.68.2:3000/
+- http://ec2-54-232-68-2.sa-east-1.compute.amazonaws.com:3000/
 
 <img height="250" width="420" src='https://user-images.githubusercontent.com/48165276/120645443-d0880380-c44e-11eb-8c49-c9ce0a5f6878.png'> <img height="250" width="400" src='https://user-images.githubusercontent.com/48165276/120645457-d382f400-c44e-11eb-90d3-6bd40f99b92a.png'> 
 <img height="250" width="420" src='https://user-images.githubusercontent.com/48165276/120645463-d54cb780-c44e-11eb-9f8f-e9b8ad61008a.png'>
@@ -24,7 +24,7 @@ This app was created with React
 This is e-commerce (is not real is a group project to one Bootcamp) based on real games. In this, you can find fantastic games and fantastic accessories to have incredible parties with your friends.
 
 - https://github.com/Cocofexe/DiceStarter
-- https://dice-starter.vercel.app/home?page=1
+- https://dice-starter.vercel.app/
 
 <img height="250" width="420" src='https://user-images.githubusercontent.com/48165276/120648699-522d6080-c452-11eb-88c1-d1b911854692.png'><img height="250" width="420" src='https://user-images.githubusercontent.com/48165276/120648741-5e192280-c452-11eb-85e2-885c062510d0.png'>
 <img height="250" width="420" src='https://user-images.githubusercontent.com/48165276/120648794-6a9d7b00-c452-11eb-9622-7c5f6d54a6f7.png'><img height="250" width="420" src='https://user-images.githubusercontent.com/48165276/120648822-71c48900-c452-11eb-881c-29b77ce436a2.png'>
