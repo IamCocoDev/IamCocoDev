@@ -33,7 +33,7 @@ This is e-commerce (is not real is a group project to one Bootcamp) based on rea
 
 
 
-- 🔭 I’m currently working on DiceStarter
+- 🔭 I’m currently working on Clonify
 - 🌱 I’m currently learning TypeScript
 
 
