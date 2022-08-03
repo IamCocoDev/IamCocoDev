@@ -5,8 +5,11 @@ Welcome to the ***Federico Giovenco*** repositories as you can see my nickname o
 In this fantastic place you will be able to find all the projects that I have been carrying out throughout my short life 💻.
 
 ### 🔭 I’m currently working on Clonify
-        https://clonify.digital/
-        We are an eHealth company that improves people's quality of life with rare and chronic diseases.
+
+https://clonify.digital/
+
+We are an eHealth company that improves people's quality of life with rare and chronic diseases.
+
 - 🌱 I’m currently learning TypeScript
 
 ### Minimalist Weather-App
