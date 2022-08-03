@@ -4,6 +4,9 @@ Welcome to the ***Federico Giovenco*** repositories as you can see my nickname o
 
 In this fantastic place you will be able to find all the projects that I have been carrying out throughout my short life 💻.
 
+### 🔭 I’m currently working on Clonify
+- 🌱 I’m currently learning TypeScript
+
 ### Minimalist Weather-App
 
 This app was created with React 
@@ -30,8 +33,6 @@ This is e-commerce (is not real is a group project to one Bootcamp) based on rea
 
 
 
-- 🔭 I’m currently working on Clonify
-- 🌱 I’m currently learning TypeScript
 
 
 📞 If you want to contact me. These are the channels.
