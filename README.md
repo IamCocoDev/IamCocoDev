@@ -10,7 +10,7 @@ We are an eHealth company that improves people's quality of life with rare and c
 
 
 
-- 🌱 I’m currently learning TypeScript
+### 🌱 I’m currently learning TypeScript
 
 
 
