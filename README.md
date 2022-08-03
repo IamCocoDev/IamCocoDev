@@ -27,10 +27,9 @@ We are an eHealth company that improves people's quality of life with rare and c
 
 ### ALCEM - https://www.alcem.org.ar/#/
 
+ It is a non-profit civil organization that defends all the rights that you have as a person with multiple sclerosis in Argentina.
+ 
 <img height="250" width="420" src='https://user-images.githubusercontent.com/48165276/182510270-659ac175-152e-4127-a56e-f245f31e6361.png'><img height="250" width="125" src='https://user-images.githubusercontent.com/48165276/182510378-5ebf0174-f8c0-4d39-810b-4b8c780a6881.png'>  
-![image])
-
-
 
 ### Basic-pong - https://github.com/IamCocoDev/basic-pong
 
