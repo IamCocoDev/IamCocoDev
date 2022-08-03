@@ -4,13 +4,19 @@ Welcome to the ***Federico Giovenco*** repositories as you can see my nickname o
 
 In this fantastic place you will be able to find all the projects that I have been carrying out throughout my short life 💻.
 
-### 🔭 I’m currently working on Clonify
-
-https://clonify.digital/
+### 🔭 I’m currently working on Clonify - https://clonify.digital/
 
 We are an eHealth company that improves people's quality of life with rare and chronic diseases.
 
+
+
 - 🌱 I’m currently learning TypeScript
+
+📞 If you want to contact me. These are the channels.
+
+<a href="https://www.linkedin.com/in/federico-giovenco-96929320b/" ><img width="5%" src="https://image.flaticon.com/icons/png/512/174/174857.png"> &nbsp;<a href="mailto:giovencofede@gmail.com" ><img width="5%" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png"><a href="https://twitter.com/cocofexe" ><img width="5%" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png"><a href="https://www.instagram.com/fedegiovenco/" ><img width="5%" src="https://image.flaticon.com/icons/png/512/174/174855.png">
+ 
+ <a><img src='https://img.shields.io/badge/+541167910548-my_phone_number-1B8C26?style=for-the-badge&logo=phone&logoColor=white&labelColor=101010' /></a>
 
 ### Minimalist Weather-App
 
@@ -34,17 +40,6 @@ This is e-commerce (is not real is a group project to one Bootcamp) based on rea
 <img height="250" width="420" src='https://user-images.githubusercontent.com/48165276/120648699-522d6080-c452-11eb-88c1-d1b911854692.png'><img height="250" width="420" src='https://user-images.githubusercontent.com/48165276/120648741-5e192280-c452-11eb-85e2-885c062510d0.png'>
 <img height="250" width="420" src='https://user-images.githubusercontent.com/48165276/120648794-6a9d7b00-c452-11eb-9622-7c5f6d54a6f7.png'><img height="250" width="420" src='https://user-images.githubusercontent.com/48165276/120648822-71c48900-c452-11eb-881c-29b77ce436a2.png'>
 <img height="250" width="420" src='https://user-images.githubusercontent.com/48165276/120649102-c536d700-c452-11eb-843a-7a12b6ce5fd3.png'>
-     
-
-
-
-
-
-📞 If you want to contact me. These are the channels.
-
-<a href="https://www.linkedin.com/in/federico-giovenco-96929320b/" ><img width="5%" src="https://image.flaticon.com/icons/png/512/174/174857.png"> &nbsp;<a href="mailto:giovencofede@gmail.com" ><img width="5%" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png"><a href="https://twitter.com/cocofexe" ><img width="5%" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png"><a href="https://www.instagram.com/fedegiovenco/" ><img width="5%" src="https://image.flaticon.com/icons/png/512/174/174855.png">
- 
- <a><img src='https://img.shields.io/badge/+541167910548-my_phone_number-1B8C26?style=for-the-badge&logo=phone&logoColor=white&labelColor=101010' /></a>
 
 <!--
 **Cocofexe/Cocofexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
