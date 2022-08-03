@@ -32,11 +32,10 @@ The basic pong game done with unity and c#
 <img height="250" width="420" src='https://user-images.githubusercontent.com/48165276/182508528-cee6c256-e185-4a9a-acb1-4febc0c34d0a.png'> <img height="250" width="420" src='https://user-images.githubusercontent.com/48165276/182508544-db0778c6-c984-4f47-a0de-67d1966180aa.png'>
 
 
-### Minimalist Weather-App
+### Minimalist Weather-App - https://github.com/Cocofexe/Weather-App 
 
 This app was created with React 
 
-- https://github.com/Cocofexe/Weather-App 
 <img height="250" width="400" src='https://user-images.githubusercontent.com/48165276/120644272-86eae900-c44d-11eb-8400-ce649aee4dc6.png'>
 
  ### Api-Dogs
