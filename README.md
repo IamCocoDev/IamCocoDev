@@ -4,7 +4,10 @@ Welcome to the ***Federico Giovenco*** repositories as you can see my nickname o
 
 In this fantastic place you will be able to find all the projects that I have been carrying out throughout my short life 💻.
 
-### 🔭 I’m currently working on Clonify - https://clonify.digital/
+
+
+
+## 🔭 I’m currently working on Clonify - https://clonify.digital/
 
 We are an eHealth company that improves people's quality of life with rare and chronic diseases.
 
@@ -14,7 +17,7 @@ We are an eHealth company that improves people's quality of life with rare and c
 
 
 
-📞 If you want to contact me. These are the channels.
+## 📞 If you want to contact me. These are the channels.
 
 <a href="https://www.linkedin.com/in/federico-giovenco-96929320b/" ><img width="5%" src="https://drive.google.com/uc?export=view&id=1bj03dHdz12o0RYxuDeYhkOfWFQxmj5_k"> &nbsp;<a href="mailto:giovencofede@gmail.com" ><img width="5%" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png"><a href="https://twitter.com/cocofexe" ><img width="5%" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png"><a href="https://www.instagram.com/fedegiovenco/" ><img width="5%" src="https://drive.google.com/uc?export=view&id=1TIYphjbnlWZLtyfs59jU_uJcMSO3EOr4">
  
